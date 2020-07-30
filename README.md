@@ -6,7 +6,7 @@
 
 Dans ce projet, on a manipulé des arrays, des hash, le tout dans un dossier ruby bien rangé. Nous avons des grosses arrays contenant plusieurs centaines d'éléments.
 
-Notre projet se fraction en 2 parties:
+Notre projet se fractionne en 2 parties:
  
  0. journalists.rb
  1. cryptocurrencies.rb
