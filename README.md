@@ -4,7 +4,7 @@
 ## Projet: Data Scientist en **RUBY*
 
 
-Dans ce projet, on a manipulé des arrays, des hash, le tout dans un dossier ruby bien rangé. Nous allons des grosses arrays contenant plusieurs centaines d'éléments.
+Dans ce projet, on a manipulé des arrays, des hash, le tout dans un dossier ruby bien rangé. Nous avons des grosses arrays contenant plusieurs centaines d'éléments.
 
 Notre projet se fraction en 2 parties:
  
