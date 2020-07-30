@@ -41,7 +41,7 @@ Voici les membres du groupe 3 qui ont travaillé sur ce projet:
  - Herisoa Nomenjanahary
  - Maminiana Mendrika
 
-Avec les profils GitHub respecté:
+Avec les profils GitHub respectés:
  - #https://github.com/Miadamalala
  - #https://github.com/MikeMax5
  - #https://github.com/Ismael148
